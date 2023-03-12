@@ -17,7 +17,7 @@
 namespace Talegen.Configuration.Server.Core.Models.Notifications
 {
     using System.Collections.Generic;
-    using Common;
+    using Common.Models.Server.Queries;
 
     /// <summary>
     /// This class represents a notification store query model used in paging interfaces for notification messages.

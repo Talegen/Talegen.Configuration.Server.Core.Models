@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Talegen.Common.Core" Version="1.0.7" />
+    <PackageReference Include="Talegen.Common.Models" Version="1.0.7" />
   </ItemGroup>
 
 </Project>
